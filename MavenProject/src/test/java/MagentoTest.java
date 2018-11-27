@@ -18,7 +18,7 @@ public class MagentoTest {
 	 * @throws Exception
 	 */
 	@Test
-	public void posCredentials() throws Exception{
+	public void posCredentials() throws Exception {
 		String url = "https://www.magento.com";
 
 		WebDriver driver = new ChromeDriver();
